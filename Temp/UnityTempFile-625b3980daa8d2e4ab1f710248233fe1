@@ -1,0 +1,526 @@
+/target:library
+/nowarn:0169
+/out:Temp/Assembly-CSharp.dll
+/debug:portable
+/optimize-
+/nostdlib+
+/preferreduilang:en-US
+/langversion:latest
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.AudioModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.BaselibModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.ClothModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.CoreModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.GridModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.InputModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TLSModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TextCoreModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.TimelineModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UIModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UNETModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.VFXModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.VRModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.VideoModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.WindModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/UnityEditor.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\Managed/Unity.Locator.dll"
+/reference:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+/reference:Library/ScriptAssemblies/NavMeshComponentsEditor.dll
+/reference:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+/reference:Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+/reference:Library/ScriptAssemblies/NavMeshComponents.dll
+/reference:Library/ScriptAssemblies/Unity.TextMeshPro.dll
+/reference:Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.28f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.28f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
+/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.28f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.28f1/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll"
+/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.28f1/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll"
+/reference:"C:/Program Files/Unity/Hub/Editor/2018.4.28f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll"
+/reference:Assets/GoogleARCore/SDK/Plugins/Google.Protobuf.dll
+/reference:"E:/AR Unity/ar2018.4/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\Microsoft.Win32.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.AppContext.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Concurrent.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.NonGeneric.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Specialized.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.TypeConverter.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Console.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Data.Common.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Contracts.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Debug.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Process.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.StackTrace.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tools.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TraceSource.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tracing.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Drawing.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Dynamic.Runtime.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Calendars.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Extensions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.ZipFile.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Watcher.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.IsolatedStorage.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.MemoryMappedFiles.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Pipes.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Expressions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Parallel.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Queryable.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Http.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NameResolution.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NetworkInformation.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Ping.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Requests.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Security.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Sockets.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebHeaderCollection.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.Client.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ObjectModel.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Extensions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Reader.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.ResourceManager.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Writer.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Extensions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Handles.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Numerics.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Json.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Xml.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Claims.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Csp.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Encoding.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Primitives.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Principal.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.SecureString.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.Extensions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.RegularExpressions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Overlapped.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.Parallel.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Thread.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.ThreadPool.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Timer.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ValueTuple.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.ReaderWriter.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XDocument.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlDocument.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlSerializer.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.XDocument.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Numerics.Vectors.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\mscorlib.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ComponentModel.Composition.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Core.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Data.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Drawing.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.IO.Compression.FileSystem.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Net.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Numerics.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Runtime.Serialization.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ServiceModel.Web.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Transactions.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Web.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Windows.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Linq.dll"
+/reference:"C:\Program Files\Unity\Hub\Editor\2018.4.28f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll"
+/define:UNITY_5_3_OR_NEWER
+/define:UNITY_5_4_OR_NEWER
+/define:UNITY_5_5_OR_NEWER
+/define:UNITY_5_6_OR_NEWER
+/define:UNITY_2017_1_OR_NEWER
+/define:UNITY_2017_2_OR_NEWER
+/define:UNITY_2017_3_OR_NEWER
+/define:UNITY_2017_4_OR_NEWER
+/define:UNITY_2018_1_OR_NEWER
+/define:UNITY_2018_2_OR_NEWER
+/define:UNITY_2018_3_OR_NEWER
+/define:UNITY_2018_4_OR_NEWER
+/define:UNITY_2018_4_28
+/define:UNITY_2018_4
+/define:UNITY_2018
+/define:UNITY_INCLUDE_TESTS
+/define:ENABLE_AUDIO
+/define:ENABLE_CACHING
+/define:ENABLE_CLOTH
+/define:ENABLE_MICROPHONE
+/define:ENABLE_MULTIPLE_DISPLAYS
+/define:ENABLE_PHYSICS
+/define:ENABLE_SPRITES
+/define:ENABLE_GRID
+/define:ENABLE_TILEMAP
+/define:ENABLE_TERRAIN
+/define:ENABLE_TEXTURE_STREAMING
+/define:ENABLE_DIRECTOR
+/define:ENABLE_UNET
+/define:ENABLE_LZMA
+/define:ENABLE_UNITYEVENTS
+/define:ENABLE_WEBCAM
+/define:ENABLE_WWW
+/define:ENABLE_CLOUD_SERVICES_COLLAB
+/define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+/define:ENABLE_CLOUD_SERVICES_ADS
+/define:ENABLE_CLOUD_HUB
+/define:ENABLE_CLOUD_PROJECT_ID
+/define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+/define:ENABLE_CLOUD_SERVICES_UNET
+/define:ENABLE_CLOUD_SERVICES_BUILD
+/define:ENABLE_CLOUD_LICENSE
+/define:ENABLE_EDITOR_HUB
+/define:ENABLE_EDITOR_HUB_LICENSE
+/define:ENABLE_WEBSOCKET_CLIENT
+/define:ENABLE_DIRECTOR_AUDIO
+/define:ENABLE_DIRECTOR_TEXTURE
+/define:ENABLE_TIMELINE
+/define:ENABLE_EDITOR_METRICS
+/define:ENABLE_EDITOR_METRICS_CACHING
+/define:ENABLE_MANAGED_JOBS
+/define:ENABLE_MANAGED_TRANSFORM_JOBS
+/define:ENABLE_MANAGED_ANIMATION_JOBS
+/define:INCLUDE_DYNAMIC_GI
+/define:INCLUDE_GI
+/define:ENABLE_MONO_BDWGC
+/define:PLATFORM_SUPPORTS_MONO
+/define:INCLUDE_PUBNUB
+/define:ENABLE_VIDEO
+/define:ENABLE_CUSTOM_RENDER_TEXTURE
+/define:ENABLE_LOCALIZATION
+/define:PLATFORM_ANDROID
+/define:UNITY_ANDROID
+/define:UNITY_ANDROID_API
+/define:ENABLE_SUBSTANCE
+/define:ENABLE_EGL
+/define:ENABLE_NETWORK
+/define:ENABLE_RUNTIME_GI
+/define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+/define:ENABLE_UNITYWEBREQUEST
+/define:ENABLE_CLOUD_SERVICES
+/define:ENABLE_CLOUD_SERVICES_ANALYTICS
+/define:ENABLE_EVENT_QUEUE
+/define:ENABLE_CLOUD_SERVICES_PURCHASING
+/define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+/define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+/define:PLATFORM_SUPPORTS_ADS_ID
+/define:UNITY_CAN_SHOW_SPLASH_SCREEN
+/define:ENABLE_VR
+/define:ENABLE_AR
+/define:UNITY_HAS_GOOGLEVR
+/define:UNITY_HAS_TANGO
+/define:ENABLE_SPATIALTRACKING
+/define:ENABLE_RUNTIME_PERMISSIONS
+/define:UNITY_ASTC_ONLY_DECOMPRESS
+/define:ENABLE_UNITYADS_RUNTIME
+/define:UNITY_UNITYADS_API
+/define:ENABLE_MONO
+/define:NET_STANDARD_2_0
+/define:ENABLE_PROFILER
+/define:DEBUG
+/define:TRACE
+/define:UNITY_ASSERTIONS
+/define:UNITY_EDITOR
+/define:UNITY_EDITOR_64
+/define:UNITY_EDITOR_WIN
+/define:ENABLE_UNITY_COLLECTIONS_CHECKS
+/define:ENABLE_BURST_AOT
+/define:UNITY_TEAM_LICENSE
+/define:CSHARP_7_OR_LATER
+/define:CSHARP_7_3_OR_NEWER
+Assets\GoogleARCore\Examples\AugmentedFaces\Scripts\ARCoreAugmentedFaceMeshFilter.cs
+Assets\GoogleARCore\Examples\AugmentedFaces\Scripts\ARCoreAugmentedFaceRig.cs
+Assets\GoogleARCore\Examples\AugmentedFaces\Scripts\AugmentedFacesExampleController.cs
+Assets\GoogleARCore\Examples\AugmentedImage\Scripts\AugmentedImageExampleController.cs
+Assets\GoogleARCore\Examples\AugmentedImage\Scripts\AugmentedImageVisualizer.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\AnchorController.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\ARCoreWorldOriginHelper.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\ARKitHelper.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\CloudAnchorsExampleController.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\CloudAnchorsNetworkManager.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\LocalPlayerController.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\NetworkManagerUIController.cs
+Assets\GoogleARCore\Examples\CloudAnchors\Scripts\StarController.cs
+Assets\GoogleARCore\Examples\Common\Scripts\DepthEffect.cs
+Assets\GoogleARCore\Examples\Common\Scripts\DepthMenu.cs
+Assets\GoogleARCore\Examples\Common\Scripts\DepthTexture.cs
+Assets\GoogleARCore\Examples\Common\Scripts\DetectedPlaneGenerator.cs
+Assets\GoogleARCore\Examples\Common\Scripts\DetectedPlaneVisualizer.cs
+Assets\GoogleARCore\Examples\Common\Scripts\InstantPlacementEffect.cs
+Assets\GoogleARCore\Examples\Common\Scripts\InstantPlacementMenu.cs
+Assets\GoogleARCore\Examples\Common\Scripts\PlaneDiscoveryGuide.cs
+Assets\GoogleARCore\Examples\Common\Scripts\PointcloudVisualizer.cs
+Assets\GoogleARCore\Examples\Common\Scripts\RawImageVideoPlayer.cs
+Assets\GoogleARCore\Examples\Common\Scripts\SafeAreaScaler.cs
+Assets\GoogleARCore\Examples\Common\Scripts\ShadowQuadHelper.cs
+Assets\GoogleARCore\Examples\ComputerVision\Scripts\ComputerVisionController.cs
+Assets\GoogleARCore\Examples\ComputerVision\Scripts\EdgeDetector.cs
+Assets\GoogleARCore\Examples\ComputerVision\Scripts\PointClickHandler.cs
+Assets\GoogleARCore\Examples\ComputerVision\Scripts\TextureReader.cs
+Assets\GoogleARCore\Examples\ComputerVision\Scripts\TextureReaderApi.cs
+Assets\GoogleARCore\Examples\HelloAR\Scripts\HelloARController.cs
+Assets\GoogleARCore\Examples\HelloAR\Scripts\SettingsMenu.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\DragGesture.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\DragGestureRecognizer.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\Gesture.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\GestureRecognizer.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\GestureTouchesUtility.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\PinchGesture.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\PinchGestureRecognizer.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TapGesture.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TapGestureRecognizer.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TransformationUtility.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TwistGesture.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TwistGestureRecognizer.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TwoFingerDragGesture.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Gestures\TwoFingerDragGestureRecognizer.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\ManipulationSystem.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Manipulators\ElevationManipulator.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Manipulators\Manipulator.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Manipulators\RotationManipulator.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Manipulators\ScaleManipulator.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Manipulators\SelectionManipulator.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\Manipulators\TranslationManipulator.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\ObjectManipulationController.cs
+Assets\GoogleARCore\Examples\ObjectManipulation\Scripts\PawnManipulator.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\ARViewManager.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\CircleRenderer.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\CloudAnchorHistory.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\DoubleLabelsItem.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\MapQualityBar.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\MapQualityIndicator.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\MultiselectionDropdown.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\PersistentCloudAnchorsController.cs
+Assets\GoogleARCore\Examples\PersistentCloudAnchors\Scripts\ResolveMenuManager.cs
+Assets\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewInput.cs
+Assets\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewManager.cs
+Assets\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewTrackedPoseDriver.cs
+Assets\GoogleARCore\SDK\Scripts\Anchor.cs
+Assets\GoogleARCore\SDK\Scripts\AndroidPermissionsManager.cs
+Assets\GoogleARCore\SDK\Scripts\AndroidPermissionsRequestResult.cs
+Assets\GoogleARCore\SDK\Scripts\Api\NativeSession.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiApkInstallationStatus.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiArStatus.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiAugmentedFaceMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiAugmentedFaceRegionType.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiAvailability.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCameraConfigFacingDirection.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCameraConfigTargetFps.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCameraFocusMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCameraMetadata.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCloudAnchorMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCloudAnchorState.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiConstants.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiCoordinates2dType.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiDepthMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiDisplayUvCoords.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiFeaturePointOrientationMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiLightEstimateState.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiLightEstimationMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiPlaneFindingMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiPlaneType.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiPoseData.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiPrestoDeviceCameraDirection.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiPrestoStatus.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiRenderEvent.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiTextureDataType.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiTrackableType.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiTrackingFailureReason.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiTrackingState.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiTypeExtensions.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Types\ApiUpdateMode.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\AnchorApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\AugmentedFaceApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\AugmentedImageApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\AugmentedImageDatabaseApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\CameraApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\CameraConfigApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\CameraConfigFilterApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\CameraConfigListApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\CameraMetadataApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\FrameApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\HitTestApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\ImageApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\LightEstimateApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\PlaneApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\PointApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\PointCloudApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\PoseApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\SessionApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\SessionConfigApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\TrackableApi.cs
+Assets\GoogleARCore\SDK\Scripts\Api\Wrappers\TrackableListApi.cs
+Assets\GoogleARCore\SDK\Scripts\ApkAvailabilityStatus.cs
+Assets\GoogleARCore\SDK\Scripts\ApkInstallationStatus.cs
+Assets\GoogleARCore\SDK\Scripts\ARCoreBackgroundRenderer.cs
+Assets\GoogleARCore\SDK\Scripts\ARCoreCameraConfigFilter.cs
+Assets\GoogleARCore\SDK\Scripts\ARCoreSession.cs
+Assets\GoogleARCore\SDK\Scripts\ARCoreSessionConfig.cs
+Assets\GoogleARCore\SDK\Scripts\Async\WaitForTaskCompletionYieldInstruction.cs
+Assets\GoogleARCore\SDK\Scripts\AsyncTask.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedFace.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedFaceMode.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedFaceRegion.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedImage.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedImageDatabase.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedImageDatabaseEntry.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedImageSrc.cs
+Assets\GoogleARCore\SDK\Scripts\AugmentedImageTrackingMethod.cs
+Assets\GoogleARCore\SDK\Scripts\CameraConfig.cs
+Assets\GoogleARCore\SDK\Scripts\CameraFocusMode.cs
+Assets\GoogleARCore\SDK\Scripts\CameraImageBytes.cs
+Assets\GoogleARCore\SDK\Scripts\CameraIntrinsics.cs
+Assets\GoogleARCore\SDK\Scripts\CameraMetadataTag.cs
+Assets\GoogleARCore\SDK\Scripts\CameraMetadataValue.cs
+Assets\GoogleARCore\SDK\Scripts\CloudAnchorMode.cs
+Assets\GoogleARCore\SDK\Scripts\CloudAnchorResult.cs
+Assets\GoogleARCore\SDK\Scripts\CloudServiceResponse.cs
+Assets\GoogleARCore\SDK\Scripts\Deprecated\TrackedPlane.cs
+Assets\GoogleARCore\SDK\Scripts\Deprecated\TrackedPoint.cs
+Assets\GoogleARCore\SDK\Scripts\Deprecated\TrackedPointOrientationMode.cs
+Assets\GoogleARCore\SDK\Scripts\DepthMode.cs
+Assets\GoogleARCore\SDK\Scripts\DepthStatus.cs
+Assets\GoogleARCore\SDK\Scripts\DetectedPlane.cs
+Assets\GoogleARCore\SDK\Scripts\DetectedPlaneFindingMode.cs
+Assets\GoogleARCore\SDK\Scripts\DetectedPlaneType.cs
+Assets\GoogleARCore\SDK\Scripts\DeviceCameraDirection.cs
+Assets\GoogleARCore\SDK\Scripts\DisplayUvCoordinateType.cs
+Assets\GoogleARCore\SDK\Scripts\DisplayUvCoordinateTypeExtension.cs
+Assets\GoogleARCore\SDK\Scripts\DisplayUvCoords.cs
+Assets\GoogleARCore\SDK\Scripts\EnvironmentalLight.cs
+Assets\GoogleARCore\SDK\Scripts\ExperimentSupport\ExperimentBase.cs
+Assets\GoogleARCore\SDK\Scripts\ExperimentSupport\ExperimentManager.cs
+Assets\GoogleARCore\SDK\Scripts\FeatureMapQuality.cs
+Assets\GoogleARCore\SDK\Scripts\FeaturePoint.cs
+Assets\GoogleARCore\SDK\Scripts\FeaturePointOrientationMode.cs
+Assets\GoogleARCore\SDK\Scripts\Frame.cs
+Assets\GoogleARCore\SDK\Scripts\IAndroidPermissionsCheck.cs
+Assets\GoogleARCore\SDK\Scripts\InstantPlacementMode.cs
+Assets\GoogleARCore\SDK\Scripts\InstantPlacementPoint.cs
+Assets\GoogleARCore\SDK\Scripts\InstantPlacementPointTrackingMethod.cs
+Assets\GoogleARCore\SDK\Scripts\LightEstimate.cs
+Assets\GoogleARCore\SDK\Scripts\LightEstimateState.cs
+Assets\GoogleARCore\SDK\Scripts\LightEstimationMode.cs
+Assets\GoogleARCore\SDK\Scripts\LostTrackingReason.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\ARCoreAndroidLifecycleManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\ARCoreIOSLifecycleManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\ARPrestoCallbackManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\CloudServiceManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\ILifecycleManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\LifecycleManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\PointCloudManager.cs
+Assets\GoogleARCore\SDK\Scripts\Managers\TrackableManager.cs
+Assets\GoogleARCore\SDK\Scripts\PointCloudPoint.cs
+Assets\GoogleARCore\SDK\Scripts\Session.cs
+Assets\GoogleARCore\SDK\Scripts\SessionStatus.cs
+Assets\GoogleARCore\SDK\Scripts\SessionStatusExtensions.cs
+Assets\GoogleARCore\SDK\Scripts\Trackable.cs
+Assets\GoogleARCore\SDK\Scripts\TrackableHit.cs
+Assets\GoogleARCore\SDK\Scripts\TrackableHitFlags.cs
+Assets\GoogleARCore\SDK\Scripts\TrackableQueryFilter.cs
+Assets\GoogleARCore\SDK\Scripts\TrackingState.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\AndroidNativeHelper.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\ARCoreiOSHelper.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\ARCoreProjectSettings.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\ARDebug.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\ConversionHelper.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\DependentModules\DependentModulesManager.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\DependentModules\IDependentModule.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\DllImportNoop.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\HelpAttribute.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\IARCoreiOSHelper.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\IntPtrEqualityComparer.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\MarshalingHelper.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\OpenGL.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\ShellHelper.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\SuppressMemoryAllocationErrorAttribute.cs
+Assets\GoogleARCore\SDK\Scripts\Utility\ThrottledLogMessage.cs
+Assets\GoogleARCore\SDK\Scripts\VersionInfo.cs
+Assets\GoogleARCore\SDK\Scripts\XPAnchor.cs
+Assets\GoogleARCore\SDK\Scripts\XPSession.cs
+Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs
+Assets\Scr.cs
+"Assets\Scripts(Indoor Nav)\MarkerController.cs"
+Assets\Scripts\ARSceneController.cs
+Assets\Scripts\DropdownController.cs
+Assets\Scripts\InstantiateObjectOnTouch.cs
+Assets\Scripts\IsDark.cs
+Assets\Scripts\LightEstimationTest.cs
+Assets\Scripts\MonsterMove.cs
+Assets\Scripts\PlaneVisualizationManager.cs
+Assets\Scripts\PlayerController.cs
+Assets\Scripts\StateChange.cs
+Assets\SD_Character\Scripts\SampleAnimation.cs
+Assets\SD_Character\Scripts\SpringBone.cs
+Assets\SD_Character\Scripts\SpringCollider.cs
+Assets\SD_Character\Scripts\SpringManager.cs

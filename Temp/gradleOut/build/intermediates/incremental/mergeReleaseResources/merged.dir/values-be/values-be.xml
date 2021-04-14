@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Скасаваць</string>
+    <string name="__arcore_continue">Далей</string>
+    <string name="__arcore_install_app">Для гэтай праграмы патрабуецца апошняя версія Сэрвісаў Google Play для AR.</string>
+    <string name="__arcore_install_feature">Для гэтай функцыі патрабуецца апошняя версія Сэрвісаў Google Play для AR.</string>
+    <string name="__arcore_installing">Усталёўваюцца Сэрвісы Google Play для AR…</string>
+</resources>

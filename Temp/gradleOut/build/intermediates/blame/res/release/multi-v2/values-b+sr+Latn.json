@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "197,244,294,406,520",
+                        "endColumns": "46,49,111,113,84",
+                        "endOffsets": "243,293,405,519,604"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,276,394",
+                        "endColumns": "50,53,115,117,88",
+                        "endOffsets": "101,155,271,389,478"
+                    }
+                }
+            ]
+        }
+    ]
+}

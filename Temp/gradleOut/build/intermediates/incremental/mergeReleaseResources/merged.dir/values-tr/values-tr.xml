@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">İptal</string>
+    <string name="__arcore_continue">Devam</string>
+    <string name="__arcore_install_app">Bu uygulamanın kullanılabilmesi için AR için Google Play Hizmetleri\'nin son sürümü gereklidir.</string>
+    <string name="__arcore_install_feature">Bu özelliğin kullanılabilmesi için AR için Google Play Hizmetleri\'nin son sürümü gereklidir.</string>
+    <string name="__arcore_installing">AR için Google Play Hizmetleri yükleniyor…</string>
+</resources>

@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:17:1-49:12
+MERGED from [:arcore_rendering_utils:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\4cda73bcb262f16c2322e60b0620fa18\arcore_rendering_utils\AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\196cec0f69e669779bd66574734c5efd\arcore_unity\AndroidManifest.xml:2:1-11:12
+MERGED from [:customized_manifest:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\bee6f950ba378f87488470919377504d\customized_manifest\AndroidManifest.xml:2:1-4:12
+MERGED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:2:1-19:12
+MERGED from [:keyless_authentication:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\95da28b7199cb241a46dbd3d55146a08\keyless_authentication\AndroidManifest.xml:2:1-9:12
+MERGED from [:unityandroidpermissions:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\1b961951ef8dc6010ceacf1db044158b\unityandroidpermissions\AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\ec40d79a2be998c1a4f10cea5e5ccc1b\unitygar\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-96
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:97-143
+	android:versionCode
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:2:144-184
+supports-screens
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
+MERGED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:33:5-47:19
+MERGED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
+meta-data#unity.tango-enable
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-73
+	android:value
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:13:50-70
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-74
+	android:value
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-71
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
+uses-feature#0x00020000
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
+uses-permission#android.permission.CAMERA
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-63
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-60
+uses-permission#android.permission.INTERNET
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-80
+uses-sdk
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_rendering_utils:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\4cda73bcb262f16c2322e60b0620fa18\arcore_rendering_utils\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\4cda73bcb262f16c2322e60b0620fa18\arcore_rendering_utils\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\196cec0f69e669779bd66574734c5efd\arcore_unity\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\196cec0f69e669779bd66574734c5efd\arcore_unity\AndroidManifest.xml:7:5-9:41
+MERGED from [:customized_manifest:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\bee6f950ba378f87488470919377504d\customized_manifest\AndroidManifest.xml:3:3-42
+MERGED from [:customized_manifest:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\bee6f950ba378f87488470919377504d\customized_manifest\AndroidManifest.xml:3:3-42
+MERGED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:7:5-44
+MERGED from [:keyless_authentication:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\95da28b7199cb241a46dbd3d55146a08\keyless_authentication\AndroidManifest.xml:7:5-44
+MERGED from [:keyless_authentication:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\95da28b7199cb241a46dbd3d55146a08\keyless_authentication\AndroidManifest.xml:7:5-44
+MERGED from [:unityandroidpermissions:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\1b961951ef8dc6010ceacf1db044158b\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\1b961951ef8dc6010ceacf1db044158b\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\ec40d79a2be998c1a4f10cea5e5ccc1b\unitygar\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\ec40d79a2be998c1a4f10cea5e5ccc1b\unitygar\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+queries
+ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:41:13-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:10:9-50
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:15:13-46

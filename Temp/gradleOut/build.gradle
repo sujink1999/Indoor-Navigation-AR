@@ -1,0 +1,99 @@
+
+buildscript {
+    repositories {
+        mavenCentral()
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.6.0'
+}
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+        google()
+        jcenter()
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+apply plugin: 'com.android.application'
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'arcore_client', ext:'aar')
+    implementation(name: 'arcore_rendering_utils', ext:'aar')
+    implementation(name: 'arcore_unity', ext:'aar')
+    implementation(name: 'customized_manifest', ext:'aar')
+    implementation(name: 'google_ar_required', ext:'aar')
+    implementation(name: 'keyless_authentication', ext:'aar')
+    implementation(name: 'unityandroidpermissions', ext:'aar')
+    implementation(name: 'unitygar', ext:'aar')
+}
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '30.0.2'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 27
+        applicationId 'com.sujin.ar2018'
+        ndk {
+            abiFilters 'armeabi-v7a', 'x86'
+        }
+        versionCode 1
+        versionName '0.1'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb']
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            useProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-unity.txt'
+            jniDebuggable true
+        }
+        release {
+            minifyEnabled false
+            useProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-unity.txt'
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    packagingOptions {
+        doNotStrip '*/armeabi-v7a/*.so'
+        doNotStrip '*/x86/*.so'
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            enableSplit = false
+        }
+        abi {
+            enableSplit = true
+        }
+    }
+}

@@ -1,0 +1,180 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sujin.ar2018"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="27" />
+10-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00020000" />
+19-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
+19-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
+20
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-63
+21-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-60
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
+22-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
+23
+24    <uses-feature
+24-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-88
+25        android:name="android.hardware.touchscreen"
+25-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-60
+26        android:required="false" />
+26-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:22:61-85
+27    <uses-feature
+27-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-99
+28        android:name="android.hardware.touchscreen.multitouch"
+28-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-71
+29        android:required="false" />
+29-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:23:72-96
+30    <uses-feature
+30-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-108
+31        android:name="android.hardware.touchscreen.multitouch.distinct"
+31-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-80
+32        android:required="false" />
+32-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:24:81-105
+33
+34    <queries>
+34-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:29:5-31:15
+35        <package android:name="com.google.ar.core" />
+35-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:30:9-54
+35-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:30:18-51
+36    </queries>
+37
+38    <uses-feature
+38-->[:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:9:5-11:35
+39        android:name="android.hardware.camera.ar"
+39-->[:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:10:9-50
+40        android:required="true" />
+40-->[:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:11:9-32
+41
+42    <application
+42-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
+43        android:banner="@drawable/app_banner"
+43-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:145-182
+44        android:extractNativeLibs="false"
+45        android:icon="@mipmap/app_icon"
+45-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+46        android:isGame="true"
+46-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:123-144
+47        android:label="@string/app_name"
+47-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+48        android:theme="@style/UnityThemeSelector" >
+48-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+49        <activity
+49-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
+50            android:name="com.unity3d.player.UnityPlayerActivity"
+50-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+51            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+51-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+52            android:hardwareAccelerated="false"
+52-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+53            android:label="@string/app_name"
+53-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+54            android:launchMode="singleTask"
+54-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+55            android:screenOrientation="fullSensor" >
+55-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+56            <intent-filter>
+56-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
+57                <action android:name="android.intent.action.MAIN" />
+57-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+57-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+59-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+60                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+60-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
+60-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
+61            </intent-filter>
+62
+63            <meta-data
+63-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
+64                android:name="unityplayer.UnityActivity"
+64-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
+65                android:value="true" />
+65-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
+66        </activity>
+67
+68        <meta-data
+68-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-73
+69            android:name="unity.tango-enable"
+69-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-49
+70            android:value="True" />
+70-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:13:50-70
+71        <meta-data
+71-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
+72            android:name="unityplayer.SkipPermissionsDialog"
+72-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
+73            android:value="true" />
+73-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
+74        <meta-data
+74-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
+75            android:name="unity.build-id"
+75-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
+76            android:value="25797314-666a-40d0-9fda-659fbd9b1167" />
+76-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
+77        <meta-data
+77-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
+78            android:name="unity.splash-mode"
+78-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
+79            android:value="0" />
+79-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
+80        <meta-data
+80-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-74
+81            android:name="unity.splash-enable"
+81-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
+82            android:value="True" />
+82-->E:\AR Unity\ar2018.4\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-71
+83        <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+84        <meta-data
+84-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:36:9-38:41
+85            android:name="com.google.ar.core.min_apk_version"
+85-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:37:13-62
+86            android:value="202470000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+86-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:38:13-38
+87        <activity
+87-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:40:9-46:80
+88            android:name="com.google.ar.core.InstallActivity"
+88-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:41:13-62
+89            android:configChanges="keyboardHidden|orientation|screenSize"
+89-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:42:13-74
+90            android:excludeFromRecents="true"
+90-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:43:13-46
+91            android:exported="false"
+91-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:44:13-37
+92            android:launchMode="singleTop"
+92-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:45:13-43
+93            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+93-->[:arcore_client:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\f86352c6368e5b8d8308ac905addde9d\arcore_client\AndroidManifest.xml:46:13-77
+94
+95        <meta-data
+95-->[:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:14:9-16:40
+96            android:name="com.google.ar.core"
+96-->[:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:15:13-46
+97            android:value="required" />
+97-->[:google_ar_required:] C:\Users\Sujin K\.gradle\caches\transforms-2\files-2.1\6af9770d384d72cddd043c1ed70786de\google_ar_required\AndroidManifest.xml:16:13-37
+98    </application>
+99
+100</manifest>

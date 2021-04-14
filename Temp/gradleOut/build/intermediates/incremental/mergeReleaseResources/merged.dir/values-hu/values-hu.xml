@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Mégse</string>
+    <string name="__arcore_continue">Folytatás</string>
+    <string name="__arcore_install_app">Ehhez az alkalmazáshoz a Google Play Services for AR legújabb verziójára van szükség.</string>
+    <string name="__arcore_install_feature">Ehhez a funkcióhoz a Google Play Services for AR legújabb verziójára van szükség.</string>
+    <string name="__arcore_installing">A Google Play Services for AR telepítése…</string>
+</resources>

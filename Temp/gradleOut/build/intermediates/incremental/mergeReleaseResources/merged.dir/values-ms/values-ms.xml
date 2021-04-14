@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Batal</string>
+    <string name="__arcore_continue">Teruskan</string>
+    <string name="__arcore_install_app">Aplikasi ini memerlukan versi terbaharu Google Play Services for AR.</string>
+    <string name="__arcore_install_feature">Ciri ini memerlukan versi terbaharu Google Play Services for AR.</string>
+    <string name="__arcore_installing">Memasang Google Play Services for AR…</string>
+</resources>

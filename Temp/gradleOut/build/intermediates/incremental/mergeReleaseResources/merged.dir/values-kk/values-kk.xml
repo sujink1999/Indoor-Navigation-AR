@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Жабу</string>
+    <string name="__arcore_continue">Жалғастыру</string>
+    <string name="__arcore_install_app">AR үшін Google Play қызметтерінің ең соңғы нұсқасы болған жағдайда, осы қолданбаны пайдалануға болады.</string>
+    <string name="__arcore_install_feature">AR үшін Google Play қызметтерінің ең соңғы нұсқасы болған жағдайда, осы функцияны пайдалануға болады.</string>
+    <string name="__arcore_installing">AR үшін Google Play қызметтері орнатылуда…</string>
+</resources>

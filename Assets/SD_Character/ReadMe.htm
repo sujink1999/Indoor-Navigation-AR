@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="ja" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Model data and motion data Conta</title>
+<style type="text/css">
+.auto-style5 {
+	line-height: 100%;
+	text-align: left;
+}
+.auto-style6 {
+	font-weight: normal;
+}
+</style>
+</head>
+
+<body>
+
+<h3 class="auto-style6"><strong>Overview</strong></h3>
+<p>Model data and motion data Contains.<br />
+<strong class="auto-style6">Materials can we use the Albedo and Metallic and 
+Normalmap in PBR<br />
+</strong>Since it is only model data and motion data, please make necessary 
+script and Animator Controller by yourself when moving in game<br />
+(Please create by Animator Controller as you wish.Since the character movement 
+script is not included, please describe it by yourself and produce it by 
+yourself)</p>
+<p class="auto-style5">&nbsp;</p>
+<h3 class="auto-style6"><strong>File Description</strong></h3>
+<h4>Place where<strong class="auto-style6"> </strong>data is stored</h4>
+<ul>
+	<li>
+	<p class="auto-style5">Model</p>
+	<ul>
+		<li>
+		<p class="auto-style5">Character\4Hero\Models<br />
+		Chara_4Hero.fbx</p>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p class="auto-style5">Material</p>
+	<ul>
+		<li>
+		<p class="auto-style5">Character\4Hero\Models\Materials<br />
+		Mat_Chara_4Hero.mat</p>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p class="auto-style5">Texture</p>
+	<ul>
+		<li>
+		<p class="auto-style5">Character\4Hero\Models\Textures<br />
+		Texture_Chara_4Hero_Albedo.tga<br />
+		Texture_Chara_4Hero_MetallicSmooth.tga<br />
+		Texture_Chara_4Hero_Normal.tga</p>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p class="auto-style5">Motion</p>
+	<ul>
+		<li>
+		<p class="auto-style5">Character \Hero\Animations<br />
+		Chara_4Hero_Idle<br />
+		Chara_4Hero_Run<br />
+		Chara_4Hero_Jump<br />
+		Chara_4Hero_Attack01<br />
+		Chara_4Hero_Attack02<br />
+		Chara_4Hero_Damage<br />
+		Chara_4Hero_Dead</p>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p class="auto-style5">Prefab</p>
+	<ul>
+		<li>
+		<p class="auto-style5">Character\4Hero\Prefabs<br />
+		Chara_4Hero.prefab</p>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p class="auto-style5">SampleScene.unity...It becomes a sample where Prefab 
+	characters are arranged</p>
+	</li>
+</ul>
+<p class="auto-style5">&nbsp;</p>
+<h4><strong>Motions Data List</strong></h4>
+<ul>
+	<li>
+	<p class="auto-style5">-Idle ...Chara_4Hero_Idle</p>
+	</li>
+	<li>
+	<p class="auto-style5">-Run ...Chara_4Hero_Run</p>
+	</li>
+	<li>
+	<p class="auto-style5">-Jump ...Chara_4Hero_Jump</p>
+	</li>
+	<li>
+	<p class="auto-style5">-Punch ...Chara_4Hero_Attack01</p>
+	</li>
+	<li>
+	<p class="auto-style5">-Kick ...Chara_4Hero_Attack02</p>
+	</li>
+	<li>
+	<p class="auto-style5">-Damage ...Chara_4Hero_Damage</p>
+	</li>
+	<li>
+	<p class="auto-style5">-Dead ...Chara_4Hero_Dead<br />
+	</p>
+	</li>
+</ul>
+<h3><strong>FBX Version</strong></h3>
+<p class="auto-style5">Model data that has been exported in the 2018 format of 
+FBX has been recorded in a folder called Models. </p>
+<h3 class="auto-style6">&nbsp;</h3>
+<h3 class="auto-style6"><strong>Texture Description</strong></h3>
+<p class="auto-style5">Texture Targa format has been recorded in a folder called 
+Textures.<br />
+Orijinal Texture size is 2048pix.</p>
+<p class="auto-style5">Texture_Chara_4Hero_MetallicSmooth.tga Description<br />
+&nbsp;R Channel is Metallic<br />
+&nbsp;G Channel is Occlusion<br />
+&nbsp;A Channnel is Smoothness</p>
+<p class="auto-style5">&nbsp;</p>
+<h3>Motion confirmation method (sample)</h3>
+<p class="auto-style5">Sample Animation Check<br />
+SampleScene.unity<br />
+Since Prefab has SampleAnimation.cs, you can check it</p>
+<p class="auto-style5">
+<img alt="" height="470" src="html_images/MotionCheck.jpg" width="694" /></p>
+<ol>
+	<li>
+	<p class="auto-style5">Open SampleScene.unity</p>
+	</li>
+	<li>
+	<p class="auto-style5">When you play Unity and press the following key</p>
+	</li>
+</ol>
+<ul>
+	<li>
+	<p class="auto-style5">Key"Arrow" Run</p>
+	</li>
+	<li>
+	<p class="auto-style5">Key"a" Punch</p>
+	</li>
+	<li>
+	<p class="auto-style5">Key"s" Kick</p>
+	</li>
+	<li>
+	<p class="auto-style5">Key"d" Damage</p>
+	</li>
+	<li>
+	<p class="auto-style5">Key"f" Dead</p>
+	</li>
+	<li>
+	<p class="auto-style5">Key"Space" Jump</p>
+	</li>
+</ul>
+<p class="auto-style5">&nbsp;</p>
+<p class="auto-style5">If you have any questions, you can contact me at<br />
+<a href="mailto:blur_masatomo@yahoo.co.jp">blur_masatomo@yahoo.co.jp</a><br />
+<a href="https://masatomo.artstation.com/">My WEB SITE</a><br />
+© Unity Technologies Japan/UCL</p>
+
+</body>
+
+</html>

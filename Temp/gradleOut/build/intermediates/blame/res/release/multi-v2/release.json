@@ -1,0 +1,2611 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,285,410,535",
+                        "endColumns": "46,47,124,124,82",
+                        "endOffsets": "236,284,409,534,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,287,416",
+                        "endColumns": "50,51,128,128,86",
+                        "endOffsets": "101,153,282,411,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,285,395,505",
+                        "endColumns": "46,47,109,109,85",
+                        "endOffsets": "236,284,394,504,590"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,272,386",
+                        "endColumns": "50,51,113,113,89",
+                        "endOffsets": "101,153,267,381,471"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rCL_values-es-rCL.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rCL\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-lo\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,287,398,510",
+                        "endColumns": "47,48,110,111,85",
+                        "endOffsets": "237,286,397,509,595"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,160,275,391",
+                        "endColumns": "51,52,114,115,89",
+                        "endOffsets": "102,155,270,386,476"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,233,278,373,468",
+                        "endColumns": "42,44,94,94,68",
+                        "endOffsets": "232,277,372,467,536"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,250,349",
+                        "endColumns": "46,48,98,98,72",
+                        "endOffsets": "97,146,245,344,417"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,288,406,526",
+                        "endColumns": "46,50,117,119,87",
+                        "endOffsets": "236,287,405,525,613"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,283,407",
+                        "endColumns": "50,54,121,123,91",
+                        "endOffsets": "101,156,278,402,494"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,438,590",
+                        "endColumns": "48,51,142,151,107",
+                        "endOffsets": "242,294,437,589,697"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,311,467",
+                        "endColumns": "52,55,146,155,111",
+                        "endOffsets": "103,159,306,462,574"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ja\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,281,378,478",
+                        "endColumns": "45,44,96,99,80",
+                        "endOffsets": "235,280,377,477,558"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,154,255,359",
+                        "endColumns": "49,48,100,103,84",
+                        "endOffsets": "100,149,250,354,439"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-fi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,286,415,549",
+                        "endColumns": "47,47,128,133,86",
+                        "endOffsets": "237,285,414,548,635"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,159,292,430",
+                        "endColumns": "51,51,132,137,90",
+                        "endOffsets": "102,154,287,425,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-sq\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,285,415,546",
+                        "endColumns": "45,48,129,130,93",
+                        "endOffsets": "235,284,414,545,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,292,427",
+                        "endColumns": "49,52,133,134,97",
+                        "endOffsets": "100,153,287,422,520"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rPY_values-es-rPY.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rPY\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rPE_values-es-rPE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rPE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,297,443,596",
+                        "endColumns": "52,53,145,152,90",
+                        "endOffsets": "242,296,442,595,686"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,170,320,477",
+                        "endColumns": "56,57,149,156,94",
+                        "endOffsets": "107,165,315,472,567"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-pl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,285,394,505",
+                        "endColumns": "46,47,108,110,80",
+                        "endOffsets": "236,284,393,504,585"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,271,386",
+                        "endColumns": "50,51,112,114,84",
+                        "endOffsets": "101,153,266,381,466"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-is\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,288,405,530",
+                        "endColumns": "49,47,116,124,85",
+                        "endOffsets": "239,287,404,529,615"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,161,282,411",
+                        "endColumns": "53,51,120,128,89",
+                        "endOffsets": "104,156,277,406,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-nb\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,288,406,533",
+                        "endColumns": "46,50,117,126,86",
+                        "endOffsets": "236,287,405,532,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,283,414",
+                        "endColumns": "50,54,121,130,90",
+                        "endOffsets": "101,156,278,409,500"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-az\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,293,405,523",
+                        "endColumns": "49,52,111,117,85",
+                        "endOffsets": "239,292,404,522,608"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,166,282,404",
+                        "endColumns": "53,56,115,121,89",
+                        "endOffsets": "104,161,277,399,489"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-mo_values-mo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-mo\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,291,433,577",
+                        "endColumns": "47,52,141,143,107",
+                        "endOffsets": "237,290,432,576,684"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,164,310,458",
+                        "endColumns": "51,56,145,147,111",
+                        "endOffsets": "102,159,305,453,565"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rNI_values-es-rNI.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rNI\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-kk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,235,288,436,587",
+                        "endColumns": "44,52,147,150,86",
+                        "endOffsets": "234,287,435,586,673"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,161,313,468",
+                        "endColumns": "48,56,151,154,90",
+                        "endOffsets": "99,156,308,463,554"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ar-rEG_values-ar-rEG.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ar-rEG\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,240,289,404,522",
+                        "endColumns": "45,48,114,117,88",
+                        "endOffsets": "239,288,403,521,610"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,277,399",
+                        "endColumns": "49,52,118,121,92",
+                        "endOffsets": "100,153,272,394,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,292,411,532",
+                        "endColumns": "48,52,118,120,88",
+                        "endOffsets": "238,291,410,531,620"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,165,288,413",
+                        "endColumns": "52,56,122,124,92",
+                        "endOffsets": "103,160,283,408,501"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,280,382,485",
+                        "endColumns": "43,45,101,102,78",
+                        "endOffsets": "233,279,381,484,563"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,153,259,366",
+                        "endColumns": "47,49,105,106,82",
+                        "endOffsets": "98,148,254,361,444"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rSG_values-en-rSG.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,287,425,567",
+                        "endColumns": "48,47,137,141,91",
+                        "endOffsets": "238,286,424,566,658"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,160,302,448",
+                        "endColumns": "52,51,141,145,95",
+                        "endOffsets": "103,155,297,443,539"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rUY_values-es-rUY.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rUY\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rAR_values-es-rAR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rAR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-he_values-he.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-he\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,283,403,524",
+                        "endColumns": "45,46,119,120,93",
+                        "endOffsets": "235,282,402,523,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,156,280,405",
+                        "endColumns": "49,50,123,124,97",
+                        "endOffsets": "100,151,275,400,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-sl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,288,419,552",
+                        "endColumns": "48,48,130,132,83",
+                        "endOffsets": "238,287,418,551,635"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,161,296,433",
+                        "endColumns": "52,52,134,136,87",
+                        "endOffsets": "103,156,291,428,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rHN_values-es-rHN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rHN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-pt-rBR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,413,539",
+                        "endColumns": "48,51,117,125,86",
+                        "endOffsets": "242,294,412,538,625"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,286,416",
+                        "endColumns": "52,55,121,129,90",
+                        "endOffsets": "103,159,281,411,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-my\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,293,430,570",
+                        "endColumns": "49,52,136,139,104",
+                        "endOffsets": "239,292,429,569,674"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,166,307,451",
+                        "endColumns": "53,56,140,143,108",
+                        "endOffsets": "104,161,302,446,555"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,291,416,542",
+                        "endColumns": "48,51,124,125,88",
+                        "endOffsets": "238,290,415,541,630"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,293,423",
+                        "endColumns": "52,55,128,129,92",
+                        "endOffsets": "103,159,288,418,511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,241,294,432,570",
+                        "endColumns": "50,52,137,137,92",
+                        "endOffsets": "240,293,431,569,662"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,309,451",
+                        "endColumns": "54,56,141,141,96",
+                        "endOffsets": "105,162,304,446,543"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-be\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,288,408,531",
+                        "endColumns": "49,47,119,122,85",
+                        "endOffsets": "239,287,407,530,616"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,161,285,412",
+                        "endColumns": "53,51,123,126,89",
+                        "endOffsets": "104,156,280,407,497"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,289,403,526",
+                        "endColumns": "48,49,113,122,85",
+                        "endOffsets": "238,288,402,525,611"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,162,280,407",
+                        "endColumns": "52,53,117,126,89",
+                        "endOffsets": "103,157,275,402,492"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-sk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,290,404,520",
+                        "endColumns": "46,52,113,115,83",
+                        "endOffsets": "236,289,403,519,603"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,163,281,401",
+                        "endColumns": "50,56,117,119,87",
+                        "endOffsets": "101,158,276,396,484"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,241,293,429,562",
+                        "endColumns": "50,51,135,132,89",
+                        "endOffsets": "240,292,428,561,651"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,166,306,443",
+                        "endColumns": "54,55,139,136,93",
+                        "endOffsets": "105,161,301,438,532"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rMX_values-es-rMX.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rMX\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-mn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,292,415,545",
+                        "endColumns": "46,54,122,129,88",
+                        "endOffsets": "236,291,414,544,633"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,165,292,426",
+                        "endColumns": "50,58,126,133,92",
+                        "endOffsets": "101,160,287,421,514"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,98",
+                        "endColumns": "41,65",
+                        "endOffsets": "94,161"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "547,591",
+                        "endColumns": "43,67",
+                        "endOffsets": "586,654"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "101,152,207,333,459",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "147,202,328,454,542"
+                    }
+                },
+                {
+                    "source": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "10,12,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "659,759,897",
+                        "endLines": "11,14,18",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "754,892,1119"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-fil_values-fil.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-fil\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "191,242,295,433,571",
+                        "endColumns": "50,52,137,137,92",
+                        "endOffsets": "241,294,432,570,663"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,309,451",
+                        "endColumns": "54,56,141,141,96",
+                        "endOffsets": "105,162,304,446,543"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "197,244,294,406,520",
+                        "endColumns": "46,49,111,113,84",
+                        "endOffsets": "243,293,405,519,604"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,276,394",
+                        "endColumns": "50,53,115,117,88",
+                        "endOffsets": "101,155,271,389,478"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rPR_values-es-rPR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rPR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,289,423,560",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "239,288,422,559,650"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rCO_values-es-rCO.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rCO\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-fa\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,282,405,531",
+                        "endColumns": "43,47,122,125,93",
+                        "endOffsets": "233,281,404,530,624"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,155,282,412",
+                        "endColumns": "47,51,126,129,97",
+                        "endOffsets": "98,150,277,407,505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-in\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,288,401,515",
+                        "endColumns": "45,51,112,113,84",
+                        "endOffsets": "235,287,400,514,599"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,278,396",
+                        "endColumns": "49,55,116,117,88",
+                        "endOffsets": "100,156,273,391,480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,285,418,556",
+                        "endColumns": "43,50,132,137,100",
+                        "endOffsets": "233,284,417,555,656"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,158,295,437",
+                        "endColumns": "47,54,136,141,104",
+                        "endOffsets": "98,153,290,432,537"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-iw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,283,403,524",
+                        "endColumns": "45,46,119,120,93",
+                        "endOffsets": "235,282,402,523,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,156,280,405",
+                        "endColumns": "49,50,123,124,97",
+                        "endOffsets": "100,151,275,400,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rDO_values-es-rDO.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rDO\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-nl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,291,416,549",
+                        "endColumns": "49,50,124,132,85",
+                        "endOffsets": "239,290,415,548,634"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,164,293,430",
+                        "endColumns": "53,54,128,136,89",
+                        "endOffsets": "104,159,288,425,515"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ms\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,287,401,515",
+                        "endColumns": "45,50,113,113,81",
+                        "endOffsets": "235,286,400,514,596"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,160,278,396",
+                        "endColumns": "49,54,117,117,85",
+                        "endOffsets": "100,155,273,391,477"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rCR_values-es-rCR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rCR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-id_values-id.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,288,401,515",
+                        "endColumns": "45,51,112,113,84",
+                        "endOffsets": "235,287,400,514,599"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,278,396",
+                        "endColumns": "49,55,116,117,88",
+                        "endOffsets": "100,156,273,391,480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,237,282,373,465",
+                        "endColumns": "42,44,90,91,73",
+                        "endOffsets": "236,281,372,464,538"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,246,342",
+                        "endColumns": "46,48,94,95,77",
+                        "endOffsets": "97,146,241,337,415"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,289,401,522",
+                        "endColumns": "45,52,111,120,100",
+                        "endOffsets": "235,288,400,521,622"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,162,278,403",
+                        "endColumns": "49,56,115,124,104",
+                        "endOffsets": "100,157,273,398,503"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-uk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,293,427,564",
+                        "endColumns": "49,52,133,136,85",
+                        "endOffsets": "239,292,426,563,649"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,166,304,445",
+                        "endColumns": "53,56,137,140,89",
+                        "endOffsets": "104,161,299,440,530"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-tr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,284,425,568",
+                        "endColumns": "45,47,140,142,86",
+                        "endOffsets": "235,283,424,567,654"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,157,302,449",
+                        "endColumns": "49,51,144,146,90",
+                        "endOffsets": "100,152,297,444,535"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-af\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,241,294,415,540",
+                        "endColumns": "50,52,120,124,88",
+                        "endOffsets": "240,293,414,539,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,292,421",
+                        "endColumns": "54,56,124,128,92",
+                        "endOffsets": "105,162,287,416,509"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rVE_values-es-rVE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rVE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-hu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,288,419,550",
+                        "endColumns": "45,51,130,130,85",
+                        "endOffsets": "235,287,418,549,635"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,296,431",
+                        "endColumns": "49,55,134,134,89",
+                        "endOffsets": "100,156,291,426,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-hy\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,292,445,604",
+                        "endColumns": "48,52,152,158,108",
+                        "endOffsets": "238,291,444,603,712"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,165,322,485",
+                        "endColumns": "52,56,156,162,112",
+                        "endOffsets": "103,160,317,480,593"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-b+es+419_values-b+es+419.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-b+es+419\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "196,245,297,421,553",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "244,296,420,552,641"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-gu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,408,534",
+                        "endColumns": "46,49,120,125,89",
+                        "endOffsets": "236,286,407,533,623"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,285,415",
+                        "endColumns": "50,53,124,129,93",
+                        "endOffsets": "101,155,280,410,504"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-gsw_values-gsw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-gsw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "191,241,290,424,561",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "240,289,423,560,651"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-zu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,289,428,558",
+                        "endColumns": "48,49,138,129,86",
+                        "endOffsets": "238,288,427,557,644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,162,305,439",
+                        "endColumns": "52,53,142,133,90",
+                        "endOffsets": "103,157,300,434,525"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,406,527",
+                        "endColumns": "46,49,118,120,82",
+                        "endOffsets": "236,286,405,526,609"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,283,408",
+                        "endColumns": "50,53,122,124,86",
+                        "endOffsets": "101,155,278,403,490"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-lv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,285,426,562",
+                        "endColumns": "46,47,140,135,90",
+                        "endOffsets": "236,284,425,561,652"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,303,443",
+                        "endColumns": "50,51,144,139,94",
+                        "endOffsets": "101,153,298,438,533"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,290,402,516",
+                        "endColumns": "46,52,111,113,83",
+                        "endOffsets": "236,289,401,515,599"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,163,279,397",
+                        "endColumns": "50,56,115,117,87",
+                        "endOffsets": "101,158,274,392,480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-el\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,287,411,541",
+                        "endColumns": "45,50,123,129,85",
+                        "endOffsets": "235,286,410,540,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,160,288,422",
+                        "endColumns": "49,54,127,133,89",
+                        "endOffsets": "100,155,283,417,507"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-zh\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,233,278,365,456",
+                        "endColumns": "42,44,86,90,73",
+                        "endOffsets": "232,277,364,455,529"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,242,337",
+                        "endColumns": "46,48,90,94,77",
+                        "endOffsets": "97,146,237,332,410"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,237,282,369,460",
+                        "endColumns": "42,44,86,90,73",
+                        "endOffsets": "236,281,368,459,533"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,242,337",
+                        "endColumns": "46,48,90,94,77",
+                        "endOffsets": "97,146,237,332,410"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-te\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,241,294,401,515",
+                        "endColumns": "50,52,106,113,91",
+                        "endOffsets": "240,293,400,514,606"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,278,396",
+                        "endColumns": "54,56,110,117,95",
+                        "endOffsets": "105,162,273,391,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rBO_values-es-rBO.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rBO\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-gl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,291,444,598",
+                        "endColumns": "48,51,152,153,104",
+                        "endOffsets": "238,290,443,597,702"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,321,479",
+                        "endColumns": "52,55,156,157,108",
+                        "endOffsets": "103,159,316,474,583"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,284,406,530",
+                        "endColumns": "46,46,121,123,88",
+                        "endOffsets": "236,283,405,529,618"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,157,283,411",
+                        "endColumns": "50,50,125,127,92",
+                        "endOffsets": "101,152,278,406,499"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ar-rSA_values-ar-rSA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ar-rSA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,240,289,404,522",
+                        "endColumns": "45,48,114,117,88",
+                        "endOffsets": "239,288,403,521,610"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,277,399",
+                        "endColumns": "49,52,118,121,92",
+                        "endOffsets": "100,153,272,394,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rAU\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-fr-rCH_values-fr-rCH.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-fr-rCH\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,242,294,449,611",
+                        "endColumns": "47,51,154,161,92",
+                        "endOffsets": "241,293,448,610,703"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,322,488",
+                        "endColumns": "51,55,158,165,96",
+                        "endOffsets": "102,158,317,483,580"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-de-rAT_values-de-rAT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-de-rAT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,244,293,427,564",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "243,292,426,563,654"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-it\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,289,419,553",
+                        "endColumns": "47,50,129,133,89",
+                        "endOffsets": "237,288,418,552,642"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,162,296,434",
+                        "endColumns": "51,54,133,137,93",
+                        "endOffsets": "102,157,291,429,523"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ml\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,289,410,537",
+                        "endColumns": "49,48,120,126,96",
+                        "endOffsets": "239,288,409,536,633"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,287,418",
+                        "endColumns": "53,52,124,130,100",
+                        "endOffsets": "104,157,282,413,514"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rXC\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,344,498,723,945",
+                        "endColumns": "149,153,224,221,185",
+                        "endOffsets": "343,497,722,944,1130"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,209,367,596,822",
+                        "endColumns": "153,157,228,225,189",
+                        "endOffsets": "204,362,591,817,1007"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,284,409,537",
+                        "endColumns": "43,49,124,127,87",
+                        "endOffsets": "233,283,408,536,624"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,157,286,418",
+                        "endColumns": "47,53,128,131,91",
+                        "endOffsets": "98,152,281,413,505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,298,402,513",
+                        "endColumns": "52,54,103,110,84",
+                        "endOffsets": "242,297,401,512,597"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,171,279,394",
+                        "endColumns": "56,58,107,114,88",
+                        "endOffsets": "107,166,274,389,478"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-sr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,399,513",
+                        "endColumns": "46,49,111,113,84",
+                        "endOffsets": "236,286,398,512,597"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,276,394",
+                        "endColumns": "50,53,115,117,88",
+                        "endOffsets": "101,155,271,389,478"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rZA_values-en-rZA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rZA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ca\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,291,426,562",
+                        "endColumns": "49,50,134,135,96",
+                        "endOffsets": "239,290,425,561,658"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,164,303,443",
+                        "endColumns": "53,54,138,139,100",
+                        "endOffsets": "104,159,298,438,539"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,235,290,428,566",
+                        "endColumns": "44,54,137,137,102",
+                        "endOffsets": "234,289,427,565,668"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,163,305,447",
+                        "endColumns": "48,58,141,141,106",
+                        "endOffsets": "99,158,300,442,549"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rGT_values-es-rGT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rGT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rEC_values-es-rEC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rEC\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,288,411,543",
+                        "endColumns": "46,50,122,131,85",
+                        "endOffsets": "236,287,410,542,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,288,424",
+                        "endColumns": "50,54,126,135,89",
+                        "endOffsets": "101,156,283,419,509"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,236,285,412,540",
+                        "endColumns": "45,48,126,127,88",
+                        "endOffsets": "235,284,411,539,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,289,421",
+                        "endColumns": "49,52,130,131,92",
+                        "endOffsets": "100,153,284,416,509"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-en-rIE_values-en-rIE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-en-rIE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,237,282,369,458",
+                        "endColumns": "42,44,86,88,70",
+                        "endOffsets": "236,281,368,457,528"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,242,335",
+                        "endColumns": "46,48,90,92,74",
+                        "endOffsets": "97,146,237,330,405"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,245,303,414,533",
+                        "endColumns": "54,57,110,118,78",
+                        "endOffsets": "244,302,413,532,611"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,114,176,291,414",
+                        "endColumns": "58,61,114,122,82",
+                        "endOffsets": "109,171,286,409,492"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,290,404,522",
+                        "endColumns": "47,51,113,117,95",
+                        "endOffsets": "237,289,403,521,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,281,403",
+                        "endColumns": "51,55,117,121,99",
+                        "endOffsets": "102,158,276,398,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rSV_values-es-rSV.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rSV\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rUS\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-no_values-no.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-no\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,288,406,533",
+                        "endColumns": "46,50,117,126,86",
+                        "endOffsets": "236,287,405,532,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,283,414",
+                        "endColumns": "50,54,121,130,90",
+                        "endOffsets": "101,156,278,409,500"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ro\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,291,433,577",
+                        "endColumns": "47,52,141,143,107",
+                        "endOffsets": "237,290,432,576,684"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,164,310,458",
+                        "endColumns": "51,56,145,147,111",
+                        "endOffsets": "102,159,305,453,565"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-sw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,417,554",
+                        "endColumns": "46,49,129,136,97",
+                        "endOffsets": "236,286,416,553,651"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,294,435",
+                        "endColumns": "50,53,133,140,101",
+                        "endOffsets": "101,155,289,430,532"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,289,409,536",
+                        "endColumns": "49,48,119,126,90",
+                        "endOffsets": "239,288,408,535,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,286,417",
+                        "endColumns": "53,52,123,130,94",
+                        "endOffsets": "104,157,281,412,507"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-hr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,289,403,519",
+                        "endColumns": "48,49,113,115,83",
+                        "endOffsets": "238,288,402,518,602"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,162,280,400",
+                        "endColumns": "52,53,117,119,87",
+                        "endOffsets": "103,157,275,395,483"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-pt\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,291,409,535",
+                        "endColumns": "48,51,117,125,86",
+                        "endOffsets": "238,290,408,534,621"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,286,416",
+                        "endColumns": "52,55,121,129,90",
+                        "endOffsets": "103,159,281,411,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-hi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,291,409,528",
+                        "endColumns": "48,51,117,118,95",
+                        "endOffsets": "238,290,408,527,623"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,286,409",
+                        "endColumns": "52,55,121,122,99",
+                        "endOffsets": "103,159,281,404,504"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-de-rCH_values-de-rCH.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-de-rCH\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,244,293,427,564",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "243,292,426,563,654"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-ur\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,241,294,408,529",
+                        "endColumns": "50,52,113,120,88",
+                        "endOffsets": "240,293,407,528,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,285,410",
+                        "endColumns": "54,56,117,124,92",
+                        "endOffsets": "105,162,280,405,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-et\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,286,404,528",
+                        "endColumns": "47,47,117,123,93",
+                        "endOffsets": "237,285,403,527,621"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,159,281,409",
+                        "endColumns": "51,51,121,127,97",
+                        "endOffsets": "102,154,276,404,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-es-rPA_values-es-rPA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-es-rPA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,243,295,419,551",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "242,294,418,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-fr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,290,445,607",
+                        "endColumns": "47,51,154,161,92",
+                        "endOffsets": "237,289,444,606,699"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,322,488",
+                        "endColumns": "51,55,158,165,96",
+                        "endOffsets": "102,158,317,483,580"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AR Unity\\ar2018.4\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sujin K\\.gradle\\caches\\transforms-2\\files-2.1\\f86352c6368e5b8d8308ac905addde9d\\arcore_client\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,242,294,424,561",
+                        "endColumns": "47,51,129,136,102",
+                        "endOffsets": "241,293,423,560,663"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,297,438",
+                        "endColumns": "51,55,133,140,106",
+                        "endOffsets": "102,158,292,433,540"
+                    }
+                }
+            ]
+        }
+    ]
+}

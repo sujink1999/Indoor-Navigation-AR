@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Odustani</string>
+    <string name="__arcore_continue">Nastavi</string>
+    <string name="__arcore_install_app">Ova aplikacija zahtijeva najnoviju verziju Google Play usluga za AR.</string>
+    <string name="__arcore_install_feature">Ova značajka zahtijeva najnoviju verziju Google Play usluga za AR.</string>
+    <string name="__arcore_installing">Instalacija Google Play usluga za AR...</string>
+</resources>

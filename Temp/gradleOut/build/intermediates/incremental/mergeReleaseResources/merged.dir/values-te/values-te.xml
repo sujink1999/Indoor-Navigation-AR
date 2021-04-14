@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">రద్దు చేయి</string>
+    <string name="__arcore_continue">కొనసాగించు</string>
+    <string name="__arcore_install_app">ఈ యాప్‌కు AR కోసం Google Play సేవలు యొక్క తాజా వెర్షన్ అవసరం.</string>
+    <string name="__arcore_install_feature">ఈ ఫీచర్ కోసం AR కోసం Google Play సేవలు యొక్క తాజా వెర్షన్ అవసరం.</string>
+    <string name="__arcore_installing">AR కోసం Google Play సేవలు ఇన్‌స్టాల్ చేస్తోంది…</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Cancel·la</string>
+    <string name="__arcore_continue">Continua</string>
+    <string name="__arcore_install_app">Cal la darrera versió de Serveis de Google Play per a RA per utilitzar aquesta aplicació.</string>
+    <string name="__arcore_install_feature">Cal la darrera versió de Serveis de Google Play per a RA per utilitzar aquesta funció.</string>
+    <string name="__arcore_installing">S\'està instal·lant Serveis de Google Play per a RA…</string>
+</resources>

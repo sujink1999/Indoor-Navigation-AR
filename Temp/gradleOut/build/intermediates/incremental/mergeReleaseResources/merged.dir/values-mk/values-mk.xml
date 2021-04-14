@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Откажи</string>
+    <string name="__arcore_continue">Продолжи</string>
+    <string name="__arcore_install_app">Апликацијава ја бара најновата верзија на „Услуги на Google Play за AR“.</string>
+    <string name="__arcore_install_feature">Функцијава ја бара најновата верзија на „Услуги на Google Play за AR“.</string>
+    <string name="__arcore_installing">Се инсталира „Услуги на Google Play за AR“…</string>
+</resources>

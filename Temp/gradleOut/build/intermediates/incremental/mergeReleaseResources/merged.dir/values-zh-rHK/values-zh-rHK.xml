@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">取消</string>
+    <string name="__arcore_continue">繼續</string>
+    <string name="__arcore_install_app">您需要安裝最新版本的「Google Play 服務 (AR)」才能使用此應用程式。</string>
+    <string name="__arcore_install_feature">您需要安裝最新版本的「Google Play 服務 (AR)」才能使用此功能。</string>
+    <string name="__arcore_installing">正在安裝「Google Play 服務 (AR)」…</string>
+</resources>

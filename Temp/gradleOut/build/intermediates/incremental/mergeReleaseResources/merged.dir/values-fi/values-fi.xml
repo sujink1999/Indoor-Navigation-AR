@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Peruuta</string>
+    <string name="__arcore_continue">Jatka</string>
+    <string name="__arcore_install_app">Tämän sovelluksen käyttö edellyttää Google Play Services for AR:n uusinta versiota.</string>
+    <string name="__arcore_install_feature">Tämän ominaisuuden käyttö edellyttää Google Play Services for AR:n uusinta versiota.</string>
+    <string name="__arcore_installing">Asennetaan Google Play Services for AR:ää…</string>
+</resources>

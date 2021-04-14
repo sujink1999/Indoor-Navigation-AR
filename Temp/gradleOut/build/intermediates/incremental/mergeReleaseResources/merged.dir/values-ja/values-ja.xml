@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">キャンセル</string>
+    <string name="__arcore_continue">続行</string>
+    <string name="__arcore_install_app">このアプリを使用するには、最新バージョンの Google Play 開発者サービス（AR）が必要です。</string>
+    <string name="__arcore_install_feature">この機能を使用するには、最新バージョンの Google Play 開発者サービス（AR）が必要です。</string>
+    <string name="__arcore_installing">Google Play 開発者サービス（AR）をインストールしています…</string>
+</resources>

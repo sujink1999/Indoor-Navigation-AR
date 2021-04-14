@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Չեղարկել</string>
+    <string name="__arcore_continue">Շարունակել</string>
+    <string name="__arcore_install_app">Այս հավելվածից օգտվելու համար տեղադրեք «Google Play ծառայություններ AR-ի համար» հավելվածի վերջին տարբերակը:</string>
+    <string name="__arcore_install_feature">Այս գործառույթից օգտվելու համար տեղադրեք «Google Play ծառայություններ AR-ի համար» հավելվածի վերջին տարբերակը:</string>
+    <string name="__arcore_installing">«Google Play ծառայություններ AR-ի համար» հավելվածը տեղադրվում է…</string>
+</resources>

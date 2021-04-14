@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Anulo</string>
+    <string name="__arcore_continue">Vazhdo</string>
+    <string name="__arcore_install_app">Ky aplikacion kërkon versionin më të fundit të \"Shërbimeve të Google Play për AR\".</string>
+    <string name="__arcore_install_feature">Kjo veçori kërkon versionin më të fundit të \"Shërbimeve të Google Play për AR\".</string>
+    <string name="__arcore_installing">Po instalohen \"Shërbimet e Google Play për AR\".</string>
+</resources>
