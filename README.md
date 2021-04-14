@@ -1,5 +1,5 @@
 # Indoor-Navigation-AR
-This project uses augrmented reality to navigate 
+This project uses augmented reality to navigate 
 Augmented reality wayfinding serves as a digital guide to aid navigation.
 This technology allows us to superimpose digital information into the
 physical-world in realtime. Using a mobile device, people can navigate their way
