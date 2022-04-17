@@ -1,4 +1,11 @@
-# Indoor-Navigation-AR
+<h1 align="center">
+  <br>
+  <span>Indoor Navigation - AR</span>
+</h1>
+<img src='assets/ar-header.png'>
+
+
+<p align="justify">
 This project uses augmented reality to navigate 
 Augmented reality wayfinding serves as a digital guide to aid navigation.
 This technology allows us to superimpose digital information into the
@@ -11,6 +18,12 @@ The AR system is so precise it can guide users to a ride in a theme park or to
 baggage claim at a busy airport. Using AR in this way increases the effectiveness
 of navigation systems by displaying a variety of visual content such as directions,
 length of the trip, possible hazards, alternative routes and any other points of
-interest.
+interest. Watch the <a href="https://www.youtube.com/watch?v=9Xt6EeUvqns">demo</a> to know how it works!
+<p>
 
-#### Checkout the [demo](https://www.youtube.com/watch?v=9Xt6EeUvqns)
+
+
+## How it works
+
+<img src='assets/ar-how-it-works.png'>
+
